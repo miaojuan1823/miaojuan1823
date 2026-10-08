@@ -15,7 +15,7 @@ I'm particularly interested in frontend development, UI/UX design, and building 
 - Working on my capstone project, **What to Wear?**
 - Always learning and improving my development skills
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Languages:** HTML, CSS, JavaScript, PHP, Python, Java, SQL
 
